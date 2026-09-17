@@ -348,7 +348,7 @@ When Jack or a team member identifies confusing language:
 
 - Rewrite the message immediately.
 - Identify the word or sentence that caused the confusion.
-- Add the unclear term and its plain-language replacement to this standard.
+- Apply the correction in the current work. Update a durable skill or memory only when the user authorizes that update.
 - Use the clearer wording in future messages.
 - Do not repeat a communication problem that has already been corrected.
 
