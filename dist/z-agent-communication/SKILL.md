@@ -11,7 +11,7 @@ Apply this standard to every agent's human-facing messages, including Asana task
 
 - Aim for Grade 8 English; do not exceed Grade 9–10 for VA instructions. Assume the reader knows their job but not the conversation history or technical terminology.
 - Lead with the result, issue, or assignment. Add only the context needed to understand it.
-- Use everyday words, short complete sentences, and one main idea per sentence. Put sequential actions in working order. Use bullets when they improve scanning.
+- Use everyday words, short complete sentences, and one main idea per sentence. Put sequential actions in working order. Use bullets for lists; use numbered lists only when the user asks for numbering.
 - Be direct, calm, and helpful. Use please and thanks naturally, without filler praise or hiding problems.
 - Keep necessary technical terms and explain them simply on first use. Preserve meaning: a subtask is a smaller task within a main task, not necessarily later follow-up work.
 - Remove unrelated information. A normal assignment comment often fits 80–180 words; this is a guide, not a limit. Task descriptions may need more detail. Never remove needed instructions to meet a word count.
