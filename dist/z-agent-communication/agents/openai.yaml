@@ -1,0 +1,4 @@
+interface:
+  default_prompt: "Use $z-agent-communication for the requested ZedBiz workflow."
+  display_name: "Z Agent Communication"
+  short_description: "Help with Z Agent Communication tasks"

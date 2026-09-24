@@ -14,7 +14,7 @@ Do not use it for machine-to-machine payloads, source code comments, private mem
 
 ## Authoritative Runtime Guide
 
-[`SKILL.md`](./SKILL.md) is the authoritative runtime instruction set. It contains the approved full communication standard, replacement dictionary, message formats, self-check, and target-voice examples.
+[`SKILL.md`](./SKILL.md) is the concise runtime instruction set for all agents, including task and subtask descriptions. [Additional examples](references/examples.md) contain terminology guidance and longer handoffs; load them only when needed.
 
 ## Runtime Files and Deployment
 
@@ -25,7 +25,7 @@ Do not use it for machine-to-machine payloads, source code comments, private mem
 | Amanda `workspace/AGENTS.md` | Always-loaded rule requiring Amanda to use the skill for human communication. |
 | Amanda `workspace/SOUL.md` | Short personality statement that reinforces the desired communication style. |
 
-Deploy the validated `SKILL.md` to the target agent’s skill directory. Before changing a live agent, preserve a dated backup, update only the intended files, verify ownership and permissions, restart or reload only if the runtime requires it, and test one representative human-facing message.
+Deploy the validated runtime package containing `SKILL.md`, `agents/`, and `references/` to the target agent's active skill directory. Record the prior GitHub commit for recovery; do not create discoverable backup skills. Verify ownership and permissions, refresh only if required, and test one representative human-facing message. The September 24 revision does not change AGENTS.md or SOUL.md.
 
 ## Validation
 
